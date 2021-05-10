@@ -1,9 +1,8 @@
 package shop.cloud.common.domain;
 
-import javax.persistence.*;
-
 import lombok.Data;
 
+import javax.persistence.*;
 import java.io.Serializable;
 
 @Entity
